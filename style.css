@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+button{
+    font-size: 26px;
+    padding: 9px 49px;
+    border: 2px solid rgb(160, 111, 51);
+    background-color: #1dc449;
+    margin: 15px 41%;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.P-title{
+    margin : 2px 20px;
+    /* font-weight: 500; */
+    font-family: sans-serif;
+}
+#container{
+margin: 10px 10px;
+}
+.post-table{
+    background-color: rgb(221, 219, 191);
+    padding: 5px;
+    width: 100%;
+    border: 3px solid rgb(60, 188, 94);
+    border-collapse: collapse;
+    margin:10px;
+
+}
+.post-table td, th{
+    padding: 5px;
+    text-align: center;
+border: 1px solid black;
+}
